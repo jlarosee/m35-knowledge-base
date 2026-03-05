@@ -62,7 +62,7 @@ Refactor this: https://github.com/Emporia-Research/EmporiaSharedBackend/pull/982
 
 # mar 5
 - rfq notifications
-    * continue working out the threading issu
+    * continue working out the threading issue
 - finish rfq auto-accept
 - rainforest sync later
 - DE risky dropped metrics not reporting ???
