@@ -1,3 +1,7 @@
+# mar 6
+- RF sample collection coverage STARTS NEXT WEEK
+- 
+
 # mar 5
 - rfq notifications
     * continue working out the threading issue
