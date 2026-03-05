@@ -46,7 +46,8 @@ researchers - end 2 end ("do it with you")
 - channel & Distribution dashboard work
 
 ## DE
-🚨🚨🚨 REFACTOR: we want to pass the email validadtion results through the MTA same as the segment. Refactor this: https://github.com/Emporia-Research/EmporiaSharedBackend/pull/982
+🚨🚨🚨 REFACTOR: we want to pass the email validadtion results through the MTA same as the segment. 
+Refactor this: https://github.com/Emporia-Research/EmporiaSharedBackend/pull/982
 
 
 # RF
