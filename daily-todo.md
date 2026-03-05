@@ -5,7 +5,9 @@
     * continue working out the threading issue
 - finish rfq auto-accept
 - rainforest sync later
-- DE risky dropped metrics not reporting ???
+- DE risky dropped metrics not reporting
+  - created PR
+  - sync'd w/ brandon about malformed contacts
 
 # mar 4
 - mark RF test flow ✅
