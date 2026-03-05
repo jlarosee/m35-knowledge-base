@@ -6,10 +6,11 @@
 - rfq notifications
     * continue working out the threading issue
 - finish rfq auto-accept
-- rainforest sync later
+- rainforest sync later ✅
 - DE risky dropped metrics not reporting
-  - created PR
+  - created PR 
   - sync'd w/ brandon about malformed contacts
+  - discovery w/ claude to ID possible bugs in hydration_service
 
 # mar 4
 - mark RF test flow ✅
