@@ -10,11 +10,14 @@
 
 ## High Level Work Items
 
+### Phase 1 - Migration
+- Migrate all Amplify apps Gen1 → Gen2 with resource dependency injection
+- Migrate all shared lambdas (front-end dependencies + centralized services) from click-ops to CDK with CI/CD
+
+### Phase 2 - Isolation
 - Provision isolated Dev & Beta AWS accounts
 - Create shared IAM resource policy package for all CDK resources
 - Build shared data layer and core infra as CDK stacks with automated GitHub Actions deploys
-- Migrate all shared lambdas (front-end dependencies + centralized services) from click-ops to CDK with CI/CD
-- Migrate all Amplify apps Gen1 → Gen2 with resource dependency injection
 - Build prod data import jobs to fully or selectively replicate prod in isolated dev environments
 
 ## Outcomes
