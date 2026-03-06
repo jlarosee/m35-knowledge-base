@@ -11,6 +11,7 @@
 
 # mar 5
 - call w/ caylent - vendor who might help w/ our migration
+  - intro with another vendor today - Mission
 - rfq notifications
     * continue working out the threading issue ✅
     * Figured out much of threading ✅
