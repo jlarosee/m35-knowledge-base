@@ -5,12 +5,14 @@
 # mar 5
 - rfq notifications
     * continue working out the threading issue
+    * Figured out much of threading ✅
 - finish rfq auto-accept
 - rainforest sync later ✅
 - DE risky dropped metrics not reporting
-  - created PR 
-  - sync'd w/ brandon about malformed contacts
+  - created PR ✅
+  - sync'd w/ brandon about malformed contacts ✅
   - discovery w/ claude to ID possible bugs in hydration_service
+    - cut a ticket
 
 # mar 4
 - mark RF test flow ✅
