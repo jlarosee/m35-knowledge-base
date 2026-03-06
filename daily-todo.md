@@ -3,6 +3,7 @@
 
 
 # mar 6
+- OA's
 - rfq notifications ✅
 - rfq auto-accept
 - intro call with another vendor, Mission at 12:30 ✅
