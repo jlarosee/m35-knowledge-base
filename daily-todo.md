@@ -4,6 +4,8 @@
 # mar 6
 - rfq notifications
 - finish rfq auto-accept
+- get an archicture doc to caylent
+- intro call with another vendor, Mission at 12:30
 
 
 # mar 5
