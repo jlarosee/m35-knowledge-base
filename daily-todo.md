@@ -1,9 +1,10 @@
 # mar 9
 - RF sample collection coverage STARTS NEXT WEEK
-- 
+
+
 # mar 6
-- rfq notifications
-- finish rfq auto-accept
+- rfq notifications 
+- rfq auto-accept
 - get an archicture doc to caylent
 - intro call with another vendor, Mission at 12:30
 
