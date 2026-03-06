@@ -3,10 +3,11 @@
 
 
 # mar 6
-- rfq notifications
+- rfq notifications ✅
 - rfq auto-accept
-- get an archicture doc to caylent
 - intro call with another vendor, Mission at 12:30
+- get an archicture doc to caylent
+  - BETTER labels
 
 
 # mar 5
