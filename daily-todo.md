@@ -13,8 +13,7 @@
     * continue working out the threading issue ✅
     * Figured out much of threading ✅
 - rainforest sync later ✅
-- DE risky dropped metrics not reporting
-  - created PR ✅
+- DE failure investigation
   - sync'd w/ brandon about malformed contacts ✅
   - discovery w/ claude to ID possible bugs in hydration_service
     - cut a ticket 🎟️
