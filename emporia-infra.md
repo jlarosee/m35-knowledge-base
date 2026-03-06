@@ -1,3 +1,7 @@
+1. by hr - project scope
+2. pod mission elevate - month to month - support ongoing
+
+
 
 ## Problems
 
