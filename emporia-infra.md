@@ -1,4 +1,4 @@
-1. by hr - project scope
+1. traditional statement - project scope
 2. pod mission elevate - month to month - support ongoing
 
 
