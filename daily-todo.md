@@ -4,8 +4,9 @@
 
 # mar 6
 - OA's
+  - almost done!
 - rfq notifications ✅
-- rfq auto-accept
+- rfq auto-accept ✅
 - intro call with another vendor, Mission at 12:30 ✅
 - get an archicture doc to caylent
   - BETTER labels
