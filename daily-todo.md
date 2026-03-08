@@ -3,13 +3,12 @@
 
 
 # mar 6
-- OA's
-  - almost done!
+- OA ✅
 - rfq notifications ✅
 - rfq auto-accept ✅
 - intro call with another vendor, Mission at 12:30 ✅
-- get an archicture doc to caylent
-  - BETTER labels
+- get an archicture doc to caylent ✅
+  - BETTER labels ❌
 
 
 # mar 5
