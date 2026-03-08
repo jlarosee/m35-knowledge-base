@@ -9,6 +9,7 @@
 - intro call with another vendor, Mission at 12:30 ✅
 - get an archicture doc to caylent ✅
   - BETTER labels ❌
+- agent harness work ✅
 
 
 # mar 5
