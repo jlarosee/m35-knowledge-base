@@ -1,5 +1,9 @@
 # mar 9
 - RF sample collection coverage STARTS NEXT WEEK
+- Mission checkin - stack review
+- bit of oncall
+- demo'd RFQ email threading for chris'
+- CR for lijin
 
 
 # mar 6
