@@ -4,6 +4,7 @@
   - check risky drops metric
 - RFQ CR addressed and merged
 - on-call catchup
+- supplier tagging sync later
 
 # mar 10
 - RF sample collection coverage STARTS NEXT WEEK
