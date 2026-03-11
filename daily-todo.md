@@ -6,6 +6,9 @@
 - on-call catchup
 - supplier tagging sync later
 
+- get shipped
+  - EMP-3599: Feat/update: allow partner verification methods to be modified 
+
 
 # mar 10
 - RF sample collection coverage STARTS NEXT WEEK
