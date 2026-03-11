@@ -1,3 +1,9 @@
+# mar 11
+- DE
+  - bump gmass6
+  - check risky drops metric
+- RFQ CR addressed and merged
+
 # mar 10
 - RF sample collection coverage STARTS NEXT WEEK
   - Add "Test Ticket" to ticket templates
