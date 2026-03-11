@@ -13,11 +13,11 @@
 
 # mar 10
 - RF sample collection coverage STARTS NEXT WEEK
-  - Add "Test Ticket" to ticket templates
-- core release help
+  - Add "Test Ticket" to ticket templates ✅
+- core release help ✅
 - dug into some on-call
-  - EMP-3599: Feat/update: allow partner verification methods to be modified in the segment drawer UI
-- raised a PR for feature flagging the agent/synth ui in core - EMP-3593
+- PR'd Feat/update: allow partner verification methods to be modified in the segment drawer UI
+- PR'd feature flagging the agent/synth ui in core - EMP-3593
 
 
 # mar 9
