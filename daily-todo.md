@@ -3,6 +3,7 @@
   - bump gmass6
   - check risky drops metric
 - RFQ CR addressed and merged
+- on-call catchup
 
 # mar 10
 - RF sample collection coverage STARTS NEXT WEEK
