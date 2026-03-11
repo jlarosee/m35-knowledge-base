@@ -5,6 +5,7 @@
 - RFQ CR addressed and merged
 - on-call catchup
 - supplier tagging sync later
+- RF workflow docs
 
 - get shipped
   - EMP-3599: Feat/update: allow partner verification methods to be modified 
