@@ -4,7 +4,7 @@
 - core release help
 - dug into some on-call
   - EMP-3599: Feat/update: allow partner verification methods to be modified in the segment drawer UI
-- raised a PR for feature flagging the agent/synth ui in core
+- raised a PR for feature flagging the agent/synth ui in core - EMP-3593
 
 # mar 9
 - Mission checkin - stack review
