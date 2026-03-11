@@ -1,4 +1,10 @@
 # mar 11
+
+## TICKETS
+- MS SafeLinks + recaptcha
+  - "Recaptcha verification error" status:error -@network.client.geoip.as.name:"Microsoft Corporation"
+- Remove EMP branding for 3p redirect pages
+
 - DE
   - bump gmass6
   - check risky drops metric
