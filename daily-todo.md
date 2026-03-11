@@ -1,6 +1,10 @@
 # mar 10
 - RF sample collection coverage STARTS NEXT WEEK
-- 
+  - Add "Test Ticket" to ticket templates
+- core release help
+- dug into some on-call
+  - EMP-3599: Feat/update: allow partner verification methods to be modified in the segment drawer UI
+- raised a PR for feature flagging the agent/synth ui in core
 
 # mar 9
 - Mission checkin - stack review
