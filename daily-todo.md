@@ -16,8 +16,8 @@
   - Add "Test Ticket" to ticket templates ✅
 - core release help ✅
 - dug into some on-call
-- PR'd Feat/update: allow partner verification methods to be modified in the segment drawer UI
-- PR'd feature flagging the agent/synth ui in core - EMP-3593
+- PR'd Feat/update: allow partner verification methods to be modified in the segment drawer UI ✅
+- PR'd feature flagging the agent/synth ui in core - EMP-3593 ✅
 
 
 # mar 9
