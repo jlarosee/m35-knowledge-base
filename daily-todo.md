@@ -3,18 +3,21 @@
 Hydrator is fucking up contacts
 https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-records-31ac3dd5414780db8191e60def8d1d5c
 
-## TICKETS
-- MS SafeLinks + recaptcha
-  - "Recaptcha verification error" status:error -@network.client.geoip.as.name:"Microsoft Corporation"
-  - The fix options (same as before, but applied to the survey flow):
-    * Skip reCAPTCHA verification on the initial GET — only invoke it on form submission, not on page load/render. The scanner is hitting the survey URL but never submitting.
-    * Bypass known Microsoft IP ranges — you can allowlist Microsoft's published IP ranges on the reCAPTCHA check, though this is maintenance-heavy.
-    * Defer reCAPTCHA token generation — don't call grecaptcha.execute() until the user actually interacts (first input focus, scroll, etc.), so the scanner never triggers it.
-  
-- Remove EMP branding for 3p redirect pages
-- Improve Password reset form - labels, validate for code client-side
-
 -----------
+
+# mar 13
+- all hands
+  - what's shipped
+    - Video Question type is NOW LIVE!
+    - RFQ Screener download - 
+  - what's shipping next week
+    - As an Emporia Supplier, I want the option to not have to submit feasibility on RFQs
+    - Qual-at-scale projects to function correctly with proper prescreening, payout timing, and reporting metrics
+    - Polis User, I want the mobile navbar to collapse into a hamburger menu
+    - Charge job updates - accurately calculating our win vs delivery rate on projects
+  - Demos
+    - RFQ Screener download
+    - Video Question type + playback and transcription  
 
 # mar 12
 - RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
