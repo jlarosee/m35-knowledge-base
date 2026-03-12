@@ -12,10 +12,10 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
     - RFQ screener download - Suppliers now have access to project screener files in Levada to help inform them of the audience.
     - RFQ notifications refresh - centralization of RFQ notifications into single email threads, which will help both admin and suppliers communicate around projects.
   - What's shipping next week
+    - Charge job updates - accurately calculating our win vs delivery rate on projects
     - As an Emporia Supplier, I want the option to not have to submit feasibility on RFQs
     - Qual-at-scale projects to function correctly with proper prescreening, payout timing, and reporting metrics
     - Polis User, I want the mobile navbar to collapse into a hamburger menu
-    - Charge job updates - accurately calculating our win vs delivery rate on projects
   - Demos
     - RFQ Screener download
     - Video Question type + playback and transcription
