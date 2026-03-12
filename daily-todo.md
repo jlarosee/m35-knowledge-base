@@ -20,7 +20,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
     - RFQ Screener download
     - Video Question type + playback and transcription
     - RFQ notifications refresh
-  - 
+ 
 
 # mar 12
 - RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
