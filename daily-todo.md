@@ -16,6 +16,11 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 ## TICKETS
 - MS SafeLinks + recaptcha
   - "Recaptcha verification error" status:error -@network.client.geoip.as.name:"Microsoft Corporation"
+  - The fix options (same as before, but applied to the survey flow):
+    * Skip reCAPTCHA verification on the initial GET — only invoke it on form submission, not on page load/render. The scanner is hitting the survey URL but never submitting.
+    * Bypass known Microsoft IP ranges — you can allowlist Microsoft's published IP ranges on the reCAPTCHA check, though this is maintenance-heavy.
+    * Defer reCAPTCHA token generation — don't call grecaptcha.execute() until the user actually interacts (first input focus, scroll, etc.), so the scanner never triggers it.
+  
 - Remove EMP branding for 3p redirect pages
 - Improve Password reset form - labels, validate for code client-side
 
