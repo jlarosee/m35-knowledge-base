@@ -8,7 +8,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 # mar 13
 - all hands
   - what's shipped
-    - Video Question type is NOW LIVE!
+    - Video question type in surveys - A brand new question type that allows respondents to answer questions via video, plus playback and transcription in managed respondents table. HUGE shoutout to @huan and @lijin.
     - RFQ Screener download - 
   - what's shipping next week
     - As an Emporia Supplier, I want the option to not have to submit feasibility on RFQs
