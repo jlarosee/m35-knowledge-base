@@ -11,6 +11,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - MS SafeLinks + recaptcha
   - "Recaptcha verification error" status:error -@network.client.geoip.as.name:"Microsoft Corporation"
 - Remove EMP branding for 3p redirect pages
+- Improve Password reset form - labels, validate for code client-side
 
 - DE
   - bump gmass6
