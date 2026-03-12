@@ -3,16 +3,6 @@
 Hydrator is fucking up contacts
 https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-records-31ac3dd5414780db8191e60def8d1d5c
 
-# mar 12
-- RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
-  - cleaned up and PR'd
-  - will @chris for CR
-- get update-campaign dedupe merged
-  - https://github.com/Emporia-Research/EmporiaSharedBackend/pull/1024#pullrequestreview-3933410295
-- 
-
-# mar 11
-
 ## TICKETS
 - MS SafeLinks + recaptcha
   - "Recaptcha verification error" status:error -@network.client.geoip.as.name:"Microsoft Corporation"
@@ -23,6 +13,20 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
   
 - Remove EMP branding for 3p redirect pages
 - Improve Password reset form - labels, validate for code client-side
+
+-----------
+
+# mar 12
+- RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
+  - cleaned up and PR'd
+  - will @chris for CR
+- get update-campaign dedupe merged
+  - https://github.com/Emporia-Research/EmporiaSharedBackend/pull/1024#pullrequestreview-3933410295
+- 
+
+# mar 11
+
+
 
 - DE
   - bump gmass6 ✅
