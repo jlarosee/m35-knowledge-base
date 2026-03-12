@@ -25,9 +25,6 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - 
 
 # mar 11
-
-
-
 - DE
   - bump gmass6 ✅
   - check risky drops metric ✅
