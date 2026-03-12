@@ -4,10 +4,12 @@ Hydrator is fucking up contacts
 https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-records-31ac3dd5414780db8191e60def8d1d5c
 
 # mar 12
-- RFQ maven ticket
+- RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
+  - cleaned up and PR'd
+  - will @chris for CR
 - get update-campaign dedupe merged
   - https://github.com/Emporia-Research/EmporiaSharedBackend/pull/1024#pullrequestreview-3933410295
--
+- 
 
 # mar 11
 
@@ -18,11 +20,14 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - Improve Password reset form - labels, validate for code client-side
 
 - DE
-  - bump gmass6
-  - check risky drops metric
-- RFQ CR addressed and merged
-- on-call catchup
-- supplier tagging sync later
+  - bump gmass6 ✅
+  - check risky drops metric ✅
+- RFQ CR addressed ✅ WILL MERGE 
+- on-call catchup ✅
+  - PR'd 
+    - update-campaign bug
+    - DE router metric build bug
+- supplier tagging sync later ✅
 - RF workflow docs
 
 - get shipped
