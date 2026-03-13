@@ -23,7 +23,7 @@ What's been going well?
 
 Frustrations?
 - pacing is good!
-- some of tickets are over scoped 
+- some of tickets are over scoped - kpi 
 
 Do you feel clear on priorities?
 
