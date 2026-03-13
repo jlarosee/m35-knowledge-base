@@ -9,7 +9,7 @@ ON CALLLLLL
 ## GOALS for 2026
 - ai projects
 - ai workflow
-- review  
+- translating business probs to eng and back 
 
 
 ## mar 13
