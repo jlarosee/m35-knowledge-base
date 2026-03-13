@@ -15,13 +15,14 @@ Our first 1:1!
 
 Setting the stage, getting to know one another. Talk about how specifics or broader ideas, blockers, frustrations, etc. These checkins are FOR YOU. (These are status updates)
 
-How are things going overall?i
+How are things going overall?
 - great likes the work
-- QAS exciting 
+- QAS exciting -  
 
 What's been going well?
 
 Frustrations?
+- pacing is good
 
 Do you feel clear on priorities?
 
