@@ -32,7 +32,7 @@ Do you feel clear on priorities?
 
 Is there anything specific on the road map that excites you?
 - QAS
-- AI
+- AI projects
 
 
 
