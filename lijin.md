@@ -3,6 +3,7 @@
 How often would you like to do check-ins?
 
 ## GOALS for 2026
+- 
 
 
 ## mar 13
