@@ -1,6 +1,6 @@
 # Lijin Guo
 
-How often would you like to do check-ins? 
+How often would you like to do check-ins?
 
 ## mar 13
 
