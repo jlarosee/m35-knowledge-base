@@ -9,7 +9,9 @@ What is one thing I could do to make you job easier?
 
 
 ## mar 13
-Our first checkin! Setting the stage, getting to know one another. Talk about how specifics or broader ideas, blockers, frustrations, etc. These checkins are FOR YOU. (These are status updates)
+Our first 1:1! 
+
+Setting the stage, getting to know one another. Talk about how specifics or broader ideas, blockers, frustrations, etc. These checkins are FOR YOU. (These are status updates)
 
 How are things going overall?
 
