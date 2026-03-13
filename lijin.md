@@ -1,6 +1,7 @@
 # Lijin Guo
 
 How often would you like to do check-ins?
+What would make this time valuable for you?
 
 ## GOALS for 2026
 - 
