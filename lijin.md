@@ -22,7 +22,8 @@ How are things going overall?
 What's been going well?
 
 Frustrations?
-- pacing is good
+- pacing is good!
+- 
 
 Do you feel clear on priorities?
 
