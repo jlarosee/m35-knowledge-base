@@ -17,6 +17,7 @@ Setting the stage, getting to know one another. Talk about how specifics or broa
 
 How are things going overall?i
 - great likes the work
+- QAS exciting 
 
 What's been going well?
 
