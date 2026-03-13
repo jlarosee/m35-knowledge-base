@@ -6,21 +6,11 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 -----------
 
 # mar 13
-- all hands
-  - What's shipped
-    - Video question type in surveys - A brand new question type that allows respondents to answer questions via video, plus playback and transcription in managed respondents table. HUGE shoutout to @huan and @lijin.
-    - RFQ screener download - Suppliers now have access to project screener files in Levada to help inform them of the audience.
-  - What's shipping next week
-    - RFQ notifications refresh - centralization of RFQ notifications into single email threads, which will help both admin and suppliers communicate around projects.
-    - Charge job updates - accurately calculating our win vs delivery rate on projects
-    - As an Emporia Supplier, I want the option to not have to submit feasibility on RFQs
-    - Qual-at-scale projects to function correctly with proper prescreening, payout timing, and reporting metrics
-    - Polis User, I want the mobile navbar to collapse into a hamburger menu
-  - Demos
-    - RFQ Screener download
-      - https://www.loom.com/share/3545bc0234c24265abdd805133ffebed
-    - Video Question type + playback and transcription
-      - https://www.loom.com/share/1ba260bdc6c242da80b8e95a9526e770
+- RFQ notification threading
+  - review RF failures, request updates
+  - RELEASE Core / Levada
+- 2 interviews
+- on-call
  
 
 # mar 12
