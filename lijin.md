@@ -25,7 +25,8 @@ How are things going overall?
 Frustrations?
 - pacing is good!
   - better than at AWS 
-- some of tickets are under scoped - kpi is an example
+- some of tickets are under scoped
+  - kpi is an example
 
 Do you feel clear on priorities?
 
