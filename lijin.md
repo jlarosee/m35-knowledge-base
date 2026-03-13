@@ -4,7 +4,6 @@ How often would you like to do check-ins?
 What would make this time valuable for you?
 What is one thing I could do to make you job easier?
 
-ON CALLLLLL
 
 ## GOALS for 2026
 - ai projects / systems
@@ -14,17 +13,19 @@ ON CALLLLLL
 ## mar 13
 Our first 1:1! 
 
+
 Setting the stage, getting to know one another. Talk about how specifics or broader ideas, blockers, frustrations, etc. These checkins are FOR YOU. (These are status updates)
+
+ON CALLLLLL - we reviewed
 
 How are things going overall?
 - great likes the work
-- QAS exciting -  
-
-What's been going well?
+- QAS exciting!
 
 Frustrations?
 - pacing is good!
-- some of tickets are over scoped - kpi 
+  - better than at AWS 
+- some of tickets are over scoped - kpi
 
 Do you feel clear on priorities?
 
