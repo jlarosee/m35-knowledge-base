@@ -11,16 +11,16 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
   - RELEASE Core / Levada
 - 2 interviews
 - on-call
+- RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
+  - cleaned up and PR'd
  
 
 # mar 12
 - RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
-  - cleaned up and PR'd
   - will @chris for CR
-- RF test coverage sync w/ chris, mark, jake, ando
-- Interview loop
+- RF test coverage sync w/ chris, mark, jake, ando ✅
+- Interview loop ✅
 - get update-campaign dedupe merged ✅
-  - https://github.com/Emporia-Research/EmporiaSharedBackend/pull/1024#pullrequestreview-3933410295
  
 
 # mar 11
