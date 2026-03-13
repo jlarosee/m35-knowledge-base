@@ -7,7 +7,9 @@ What is one thing I could do to make you job easier?
 ON CALLLLLL
 
 ## GOALS for 2026
-- 
+- ai projects
+- ai workflow
+-  
 
 
 ## mar 13
