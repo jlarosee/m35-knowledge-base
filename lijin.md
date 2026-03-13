@@ -2,6 +2,7 @@
 
 How often would you like to do check-ins?
 What would make this time valuable for you?
+What is one thing I could do to make you job easier?
 
 ## GOALS for 2026
 - 
