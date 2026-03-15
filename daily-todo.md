@@ -7,9 +7,9 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 # mar 13
 - RFQ notification threading
-  - review RF failures, request updates
+  - review RF failures, request updates ✅
   - RELEASE Core / Levada
-- 2 interviews
+- interviews loop ✅
 - on-call
 - RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
   - cleaned up and PR'd
