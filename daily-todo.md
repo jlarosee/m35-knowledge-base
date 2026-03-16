@@ -20,7 +20,8 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
   - review RF failures, request updates ✅
   - RELEASE Core / Levada
 - interviews loop ✅
-- on-call
+- on-call misc
+- 1:1 lijin
 - RFQ submitsProposal - revived but started over
  
 
