@@ -21,8 +21,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
   - RELEASE Core / Levada
 - interviews loop ✅
 - on-call
-- RFQ "maven" ticket - "option to not have to submit feasibility on RFQs"
-  - cleaned up and PR'd
+- RFQ submitsProposal - revived but started over
  
 
 # mar 12
