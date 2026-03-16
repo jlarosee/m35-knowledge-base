@@ -1,11 +1,13 @@
 # Lijin Guo
 
+
 How often would you like to do check-ins?
 What would make this time valuable for you?
 What is one thing I could do to make you job easier?
 
 
 ## GOALS for 2026
+- https://docs.google.com/document/d/14kG2-CB5ppFCqIAdlYRyqk7QhSRgO5X3EJYP4PfQwFE/edit?tab=t.0
 - ai projects / systems
 - translating business probs to eng and back to biz
 
