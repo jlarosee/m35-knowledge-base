@@ -10,6 +10,7 @@
 - contact#5x5-000a9ef0978b821c594450bdc044ec26
   - enrich data but no email
 
+```json
 {
  "id": "routerConfig#latest",
  "sortKey": "routerConfig",
@@ -57,4 +58,4 @@
  "routeDroppedColdPositiveToCold": true,
  "useRouting": true
 }
-
+```
