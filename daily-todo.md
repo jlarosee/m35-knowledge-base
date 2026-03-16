@@ -12,7 +12,8 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - RFQ notification threading
   - Releases are ready to go out
 - RFQ submitsProposal in the works
-- 
+
+
 
 # mar 13
 - RFQ notification threading
