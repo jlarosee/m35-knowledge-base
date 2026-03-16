@@ -3,7 +3,7 @@
 Hydrator is fucking up contacts
 https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-records-31ac3dd5414780db8191e60def8d1d5c
 
-10% bump dailyl gmass6
+10% bump daily gmass6
 
 -----------
 
