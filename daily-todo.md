@@ -11,7 +11,8 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 
 # mar 16
-- mailsoar call 
+- mailsoar checkin
+  - takeaway there is that we're aiming for 5k daily cold+ by mid next week - 10% per day
 - oncall hand-off
 - cr for lijin
 - RFQ notifications shipped ✅
