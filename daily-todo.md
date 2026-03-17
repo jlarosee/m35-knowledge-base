@@ -7,11 +7,16 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 -----------
 
+# mar 17
+
+
 # mar 16
 - oncall hand-off
-- RFQ notification threading
-  - Releases are ready to go out
+- cr for lijin
+- RFQ notifications shipped ✅
+- Polis release - fix for initial contact create
 - RFQ submitsProposal in the works
+- meeting w/ jake and andrew
 
 
 
