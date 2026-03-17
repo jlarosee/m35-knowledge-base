@@ -8,6 +8,9 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 -----------
 
 # mar 17
+- bump gmass6 10%
+- Polis release - check fix for initial contact create bug 
+- 
 
 
 # mar 16
@@ -16,7 +19,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - oncall hand-off
 - cr for lijin
 - RFQ notifications shipped ✅
-- Polis release - fix for initial contact create
+- Polis release - fix for initial contact create bug ✅
 - RFQ submitsProposal in the works
 - meeting w/ jake and andrew
 
