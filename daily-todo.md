@@ -11,6 +11,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 
 # mar 16
+- mailsoar call 
 - oncall hand-off
 - cr for lijin
 - RFQ notifications shipped ✅
