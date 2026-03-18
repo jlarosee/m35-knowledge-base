@@ -18,7 +18,10 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
   - we want this to feel safer to use
   - big modal for kick-off, not resuem
     - show partner config there
-  - search + filters (tags / type / etc) 
+  - search + filters (tags / type / etc)
+  - FAVICON pull in the card
+    - check audience preview - pull favicon from their website
+    - 
 
 IDEAS
 - we could use pori to match the project description to curated tags and then use those tags to denote partners who are well-fitting
