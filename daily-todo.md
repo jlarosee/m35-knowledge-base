@@ -7,6 +7,9 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 ## Supplier Profiling
 
+### Questions
+- supplier scrub rates
+  - it's really: n limit, IR, and scrub rate
 - curated tag list to start
 - hide non-blendable suppliers in drawers?
 - drawer in kick-off
