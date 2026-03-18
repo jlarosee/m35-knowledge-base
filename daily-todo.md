@@ -9,7 +9,8 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 ### Questions
 - supplier scrub rates
-  - it's really: IR VS. scrub rate
+  - it's really: IR VS. scrub rate ?
+  - how/when do we want to run comps for the supplier?
 - curated tag list to start
 - hide non-blendable suppliers in drawers?
 - drawer in kick-off
