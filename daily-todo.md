@@ -5,6 +5,19 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 10% bump daily gmass6
 
+## Supplier Profiling
+
+- curated tag list to start
+- hide non-blendable suppliers in drawers?
+- drawer in kick-off
+  - instead of modal?
+
+IDEAS
+- we could use pori to match the project description to curated tags and then use those tags to denote partners who are well-fitting
+- PMs manually tag projects from the tag list?  
+
+
+  
 -----------
 
 
