@@ -7,9 +7,9 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 -----------
 
+
 # mar 17
 - bump gmass6 10% ✅
-- Polis release - check fix for initial contact create bug - resolved ✅
 - RFQ submitsProposal ✅
 - Supplier name render bug in admin PR'd ✅
 
