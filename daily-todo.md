@@ -9,6 +9,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 ### Questions
 - supplier scrub rates
+    - ANOTHER ticket - supplier profile
   - it's really: IR VS. scrub rate ?
   - how/when do we want to run comps for the supplier?
 - curated tag list to start
@@ -20,6 +21,7 @@ IDEAS
 - we could use pori to match the project description to curated tags and then use those tags to denote partners who are well-fitting
 - PMs manually tag projects from the tag list?  
 
+partners have tags and description
 
   
 -----------
