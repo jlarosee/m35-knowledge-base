@@ -15,7 +15,10 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - curated tag list to start
 - hide non-blendable suppliers in drawers?
 - drawer in kick-off
+  - big modal for kick-off, not resuem
+    - show partner config there
   - instead of modal?
+  - 
 
 IDEAS
 - we could use pori to match the project description to curated tags and then use those tags to denote partners who are well-fitting
