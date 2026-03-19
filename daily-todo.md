@@ -5,29 +5,15 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 10% bump daily gmass6
 
-## Supplier Profiling
-
-### Questions
-- supplier scrub rates
-    - ANOTHER ticket - supplier profile
-  - it's really: IR VS. scrub rate ?
-  - how/when do we want to run comps for the supplier?
-- curated tag list to start YES
-- hide non-blendable suppliers in drawers? YES
-- drawer in kick-off
-  - we want this to feel safer to use
-  - big modal for kick-off, not resuem
-    - show partner config there
-  - search + filters (tags / type / etc)
-  - FAVICON pull in the card
-    - check audience preview - pull favicon from their website
-    - 
-
-IDEAS
-- we could use pori to match the project description to curated tags and then use those tags to denote partners who are well-fitting
-- PMs manually tag projects from the tag list?  
-
-partners have tags and description
+SQS queues: 
+- 31
+DDB: 
+- 18 tables
+OS: 
+- 2 serverless collections
+Lambdas: 
+- 48 (ripple / standalone)
+- 1-8 per Amplify application, per env (including engineers)
 
   
 -----------
