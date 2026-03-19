@@ -12,8 +12,8 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
     - ANOTHER ticket - supplier profile
   - it's really: IR VS. scrub rate ?
   - how/when do we want to run comps for the supplier?
-- curated tag list to start
-- hide non-blendable suppliers in drawers?
+- curated tag list to start YES
+- hide non-blendable suppliers in drawers? YES
 - drawer in kick-off
   - we want this to feel safer to use
   - big modal for kick-off, not resuem
