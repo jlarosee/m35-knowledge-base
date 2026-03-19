@@ -32,10 +32,14 @@ partners have tags and description
   
 -----------
 
+# mar 19
+- focus admin blending experience
+
+
 # mar 18
 - bump gmass6 10% ✅
 - interview loop
-- admin blending experience
+- started admin blending experience
 
 
 # mar 17
