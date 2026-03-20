@@ -42,6 +42,8 @@ ticket to add friction for
   - EXT - 3608 (lijin's ticket)
 - josh (have about a 1 of capacity)
   - my carry over work (.4)
+  - 1951
+    - notifications
   - supplier blending stuff
     - TBD
   - levada ui refresh
