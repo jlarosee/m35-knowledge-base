@@ -18,6 +18,11 @@ Lambdas:
   
 -----------
 
+RFQ notifications, supplier modes, and supplier tagging and ui
+interview loops
+bump gmass6
+
+
 # mar 20
 - chatted with pierre about bumping our total platform send
   - 5% daily bump
@@ -27,6 +32,7 @@ Lambdas:
 - sync w/ ando on Mission's request for our AWS resource surface area overview
 - planning sync w/ chris 
 - bump gmass6 10%
+
 
 
 # mar 19
