@@ -18,9 +18,20 @@ Lambdas:
   
 -----------
 
-RFQ notifications, supplier modes, and supplier tagging and ui
-interview loops
-bump gmass6
+Confirm button
+bring back cpi match to
+remove "cpi match"
+ticket to add friction for 
+
+- blending thoughts
+  - better metrics
+- huan
+  - engagment exp
+  - 3616 cleanup ticket
+- lijin
+  - audio carry over
+  - more 
+-  
 
 
 # mar 20
@@ -32,6 +43,10 @@ bump gmass6
 - sync w/ ando on Mission's request for our AWS resource surface area overview
 - planning sync w/ chris 
 - bump gmass6 10%
+
+- sync w/ chris on RFQ notification
+  - where we're at w/ testing
+  - plans to roll out to PMs - via managers?
 
 
 
