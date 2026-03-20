@@ -47,6 +47,7 @@ ticket to add friction for
   - supplier blending stuff
     - ADding new team members (do we have a ticket???? if not, add it)
     - fix HS template
+    - thoughts on metrics
     - TBD
   - levada ui refresh
     - claude pass
