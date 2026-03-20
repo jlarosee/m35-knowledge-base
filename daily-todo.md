@@ -23,6 +23,8 @@ bring back cpi match to
 remove "cpi match"
 ticket to add friction for 
 
+# GOALS for final sprint
+## FINISH ENGAGEMENT EXP + QUAL-AT-SCALE
 - blending thoughts
   - better metrics
 - huan
