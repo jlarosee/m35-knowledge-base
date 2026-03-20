@@ -33,9 +33,9 @@ ticket to add friction for
 - lijin
   - on-call
   - audio carry over (med)
-  - 3607 (lijin's ticket)
   - 2996 - sub of EMP-3565
   - 2372 - survey bundle size
+  - EXT - 3607 (lijin's ticket)
   - EXT - 3608 (lijin's ticket)
 -  
 
