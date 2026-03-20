@@ -45,7 +45,7 @@ ticket to add friction for
   - 1951
     - notifications
   - supplier blending stuff
-    - ADding new team members (do we have a ticket???? if not, add it)
+    - Adding new team members (do we have a ticket???? if not, add it)
     - fix HS template
     - TBD
   - levada ui refresh
