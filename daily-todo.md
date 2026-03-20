@@ -25,6 +25,7 @@ ticket to add friction for
 
 # GOALS for final sprint
 ## FINISH ENGAGEMENT EXP + QUAL-AT-SCALE
+
 - blending thoughts
   - better metrics
 - huan
@@ -39,7 +40,13 @@ ticket to add friction for
   - 2372 - survey bundle size
   - EXT - 3607 (lijin's ticket)
   - EXT - 3608 (lijin's ticket)
--  
+- josh
+  - my carry over work (.4)
+  - supplier blending stuff
+    - TBD
+  - levada ui refresh
+    - claude pass
+  -  
 
 
 # mar 20
