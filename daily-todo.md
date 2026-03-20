@@ -20,6 +20,7 @@ Lambdas:
 
 # mar 20
 - chatted with pierre about bumping our total platform send
+  - 5% daily bump
 - blending supplier experience PR'd
 - DE router gmass6 send cap bump - 10%
 - resume review
