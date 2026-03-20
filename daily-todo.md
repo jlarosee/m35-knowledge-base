@@ -40,7 +40,7 @@ ticket to add friction for
   - 2372 - survey bundle size
   - EXT - 3607 (lijin's ticket)
   - EXT - 3608 (lijin's ticket)
-- josh
+- josh (have about a 1 of capacity)
   - my carry over work (.4)
   - supplier blending stuff
     - TBD
