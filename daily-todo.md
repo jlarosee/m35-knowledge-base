@@ -24,6 +24,7 @@ Lambdas:
 - resume review
 - sync w/ ando on Mission's request for our AWS resource surface area overview
 - planning sync w/ chris 
+- bump gmass6 10%
 
 
 # mar 19
