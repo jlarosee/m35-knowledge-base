@@ -19,8 +19,11 @@ Lambdas:
 -----------
 
 # mar 20
-- bump gmass6 10%
 - blending supplier experience PR'd
+- DE router gmass6 send cap bump - 10%
+- resume review
+- sync w/ ando on Mission's request for our AWS resource surface area overview
+- planning sync w/ chris 
 
 
 # mar 19
