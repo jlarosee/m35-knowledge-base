@@ -18,8 +18,14 @@ Lambdas:
   
 -----------
 
+# mar 20
+- bump gmass6 10%
+- blending supplier experience PR'd
+
+
 # mar 19
-- focus admin blending experience
+- blending supplier experience almost done
+- bump gmass6 10%
 
 
 # mar 18
