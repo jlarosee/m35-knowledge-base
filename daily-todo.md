@@ -28,9 +28,12 @@ ticket to add friction for
 - huan
   - engagment exp
   - 3616 cleanup ticket
+  - 3297
+  - 3200
 - lijin
   - audio carry over
-  - more 
+  - 3607 (lijin's ticket)
+  - 
 -  
 
 
