@@ -36,7 +36,7 @@ ticket to add friction for
   - 3607 (lijin's ticket)
   - 2996 - sub of EMP-3565
   - 2372 - survey bundle size
-  - EXT - 3608
+  - EXT - 3608 (lijin's ticket)
 -  
 
 
