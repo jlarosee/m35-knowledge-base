@@ -52,6 +52,10 @@ ticket to add friction for
     - claude pass
   -  
 
+# mar 23
+- release Core, Admin, Supplier Portal
+- sprint planning
+- 
 
 # mar 20
 - chatted with pierre about bumping our total platform send
