@@ -10,6 +10,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 - blending thoughts
   - better metrics
+
 - huan
   - engagment exp
   - 3616 cleanup ticket
