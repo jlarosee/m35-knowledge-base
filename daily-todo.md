@@ -54,6 +54,7 @@ ticket to add friction for
 
 # mar 23
 - release Core, Admin, Supplier Portal
+  - 🚨 RFQ fix https://github.com/Emporia-Research/EmporiaEngineWeb/pull/2028
 - sprint planning
 - 
 
