@@ -3,26 +3,6 @@
 Hydrator is fucking up contacts
 https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-records-31ac3dd5414780db8191e60def8d1d5c
 
-10% bump daily gmass6
-
-SQS queues: 
-- 31
-DDB: 
-- 18 tables
-OS: 
-- 2 serverless collections
-Lambdas: 
-- 48 (ripple / standalone)
-- 1-8 per Amplify application, per env (including engineers)
-
-  
------------
-
-Confirm button
-bring back cpi match to
-remove "cpi match"
-ticket to add friction for 
-
 # GOALS for final sprint
 ## FINISH ENGAGEMENT EXP + QUAL-AT-SCALE
 
