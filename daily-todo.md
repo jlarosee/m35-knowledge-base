@@ -4,7 +4,9 @@ Hydrator is fucking up contacts
 https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-records-31ac3dd5414780db8191e60def8d1d5c
 
 # GOALS for final sprint
-## FINISH ENGAGEMENT EXP + QUAL-AT-SCALE
+- FINISH ENGAGEMENT EXP
+- QUAL-AT-SCALE
+- RFQ notifications changes 
 
 - blending thoughts
   - better metrics
