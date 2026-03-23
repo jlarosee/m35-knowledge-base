@@ -8,38 +8,13 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 - QUAL-AT-SCALE
 - RFQ notifications changes 
 
-- blending thoughts
-  - better metrics
-
-- huan
-  - engagment exp
-  - 3616 cleanup ticket
-  - 3297
-  - 3200
-- lijin
-  - on-call
-  - audio carry over (med)
-  - 2996 - sub of EMP-3565
-  - 2372 - survey bundle size
-  - EXT - 3607 (lijin's ticket)
-  - EXT - 3608 (lijin's ticket)
-- josh (have about a 1 of capacity)
-  - my carry over work (.4)
-  - 1951
-    - notifications
-  - supplier blending stuff
-    - Adding new team members (do we have a ticket???? if not, add it)
-    - fix HS template
-    - TBD
-  - levada ui refresh
-    - claude pass
-  -  
 
 # mar 23
 - sprint planning
 - RFQ changes released Core, Admin, Supplier Portal
   - 🚨 RFQ fix https://github.com/Emporia-Research/EmporiaEngineWeb/pull/2028
 - continue work on the supplier selection ticket
+
 
 # mar 20
 - chatted with pierre about bumping our total platform send
