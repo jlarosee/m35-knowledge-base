@@ -1,0 +1,41 @@
+# mar 23
+
+GOALS for final sprint
+- Finish engagement experience theme
+- Finalize QUAL-AT-SCALE 
+- RFQ notifications feedback + Levada improvements 
+
+- blending thoughts
+  - better metrics
+
+- huan
+  - carry-over
+    - finish up EMP-3594 .4
+  - engagment exp
+    - EMP-3567 - mobile navbar: .2
+    - EMP-3297 - participation history using cards and a sliding panel: .6
+  - QAS
+    - EMP-3616 - qual-at-scale tweaks / updates from feedback: .4
+  - EMP-3200 - improve the router UI/UX: .4
+
+.4 + .2 + .6 + .4 + .4 = 2
+
+- lijin
+  - on-call: .6
+  - carry-over
+    - EMP-3430 - audio response question type: .4
+  - 2996 - sub of EMP-3565
+  - 2372 - survey bundle size
+  - EXT - 3607 (lijin's ticket)
+  - EXT - 3608 (lijin's ticket)
+- josh (have about a 1 of capacity)
+  - my carry over work (.4)
+  - 1951
+    - notifications
+  - supplier blending stuff
+    - Adding new team members (do we have a ticket???? if not, add it)
+    - fix HS template
+    - TBD
+  - levada ui refresh
+    - claude pass
+   
