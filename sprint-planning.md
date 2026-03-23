@@ -1,7 +1,6 @@
 # mar 23
 
 GOALS for final sprint
-- 
 - wrap up engagement experience theme
 - wrap up light-weight qual-at-scale 
 - RFQ notifications feedback + Levada improvements 
