@@ -29,9 +29,9 @@ GOALS for final sprint
     - EMP-3565 - better SMS/push sub modal experience: .4
     - EMP-2996 (sub EMP-3565) - fix "subscribe to push" notification for polis users: .2
     - EMP-2372 - optimize the shared Next.js bundle size: .4
-  - Stretch 
-  - EMP-3607 (lijin's ticket) - "Actual Quantity" for each segment in the cost estimates tab: .2 (?)
-  - EMP-3608 (lijin's ticket) - ensure segment line item quantities to sum to the project-level n size: .2 (?)
+  - Stretch
+    - EMP-3607 (lijin's ticket) - "Actual Quantity" for each segment in the cost estimates tab: .2 (?)
+    - EMP-3608 (lijin's ticket) - ensure segment line item quantities to sum to the project-level n size: .2 (?)
 
 .6 + .4 + .4 + .2 + .4 = 2
 Stretch: .2 + 2. = .4
