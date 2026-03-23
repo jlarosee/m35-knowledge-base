@@ -35,8 +35,8 @@
   - on-call: .6
   - carry-over
     - EMP-3430 - audio response question type: .4
-  - engagment exp
     - EMP-3565 - better SMS/push sub modal experience: .4
+  - engagment exp
     - EMP-2996 (sub EMP-3565) - fix "subscribe to push" notification for polis users: .2
     - EMP-2372 - optimize the shared Next.js bundle size: .4
   - Stretch
