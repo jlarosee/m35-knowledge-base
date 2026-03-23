@@ -25,7 +25,6 @@ EMP-3580 - Add Google Sheet support for media responses
     - EMP-3626 - external table of respondents and responses with clients via a unique link: TBD
     - EMP-3589 - new stand-alone insights application: gen2, new repo, etc: TBD
 
-
   - EMP-3200 (PUNTED) - improve the router UI/UX: .4 =
 
 .4 + .2 + .6 + .4 + .4 = 2
