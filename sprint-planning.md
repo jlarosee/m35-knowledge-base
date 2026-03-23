@@ -36,15 +36,14 @@ GOALS for final sprint
 .6 + .4 + .4 + .2 + .4 = 2
 Stretch: .2 + 2. = .4
 
-- 
-- josh (have about a 1 of capacity)
-  - my carry over work (.4)
+- josh
+  - carry-over
+    - EMP-3601 - Blending supplier's strengths, specialties, and performance metrics: .6
+    - EMP-3593 - remove "Agents" from UI (wire up feature flagging)
   - 1951
     - notifications
   - supplier blending stuff
     - Adding new team members (do we have a ticket???? if not, add it)
-    - fix HS template
-    - TBD
   - levada ui refresh
     - claude pass
    
