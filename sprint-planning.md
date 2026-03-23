@@ -9,6 +9,10 @@ GOALS for final sprint
 - 💡blending thoughts
   - better metrics
 
+
+## QUESTIONS - we didn't talk about these??
+EMP-3580 - Add Google Sheet support for media responses
+
 - huan
   - carry-over
     - finish up EMP-3594 .4
