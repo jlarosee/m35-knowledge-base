@@ -6,7 +6,7 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 -------
 
 # mar 23
-- sprint planning
+- sprint planning ✅ 
 - RFQ changes released Core, Admin, Supplier Portal
   - 🚨 RFQ fix https://github.com/Emporia-Research/EmporiaEngineWeb/pull/2028
 - continue work on the supplier selection ticket
