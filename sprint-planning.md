@@ -6,7 +6,7 @@ GOALS for final sprint
 - Finalize QUAL-AT-SCALE 
 - RFQ notifications feedback + Levada improvements 
 
-- blending thoughts
+- 💡blending thoughts
   - better metrics
 
 - huan
