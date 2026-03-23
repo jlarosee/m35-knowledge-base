@@ -45,6 +45,7 @@ Stretch: .2 + 2. = .4
     - EMP-3521 - (Admin) Adding new team members in Supplier context needs to add them to Supplier group: .2
   - levada ui refresh
     - claude pass
-   
+
+.6 + .2 + .4 + .2 = 1.4
 
    
