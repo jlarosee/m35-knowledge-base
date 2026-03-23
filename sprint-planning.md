@@ -39,11 +39,12 @@ Stretch: .2 + 2. = .4
 - josh
   - carry-over
     - EMP-3601 - Blending supplier's strengths, specialties, and performance metrics: .6
-    - EMP-3593 - remove "Agents" from UI (wire up feature flagging)
-  - 1951
-    - notifications
-  - supplier blending stuff
-    - Adding new team members (do we have a ticket???? if not, add it)
+    - EMP-3593 - remove "Agents" from UI (wire up feature flagging): .2
+  - blending / RFQ extensions / Levada 
+    - EMP-1951 - “pause sample” notification emails to be a roll-up: .4
+    - EMP-3521 - (Admin) Adding new team members in Supplier context needs to add them to Supplier group: .2
   - levada ui refresh
     - claude pass
+   
+
    
