@@ -28,9 +28,10 @@ GOALS for final sprint
   - engagment exp
     - EMP-3565 - better SMS/push sub modal experience: .4
     - EMP-2996 (sub EMP-3565) - fix "subscribe to push" notification for polis users: .2
-  - 2372 - survey bundle size
-  - EXT - 3607 (lijin's ticket)
-  - EXT - 3608 (lijin's ticket)
+    - EMP-2372 - optimize the shared Next.js bundle size: .4
+  - Stretch 
+  - EMP-3607 (lijin's ticket) - "Actual Quantity" for each segment in the cost estimates tab: .2 (?)
+  - EMP-3608 (lijin's ticket) - ensure segment line item quantities to sum to the project-level n size: .2 (?)
 
 - 
 - josh (have about a 1 of capacity)
