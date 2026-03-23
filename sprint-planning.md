@@ -16,12 +16,12 @@ EMP-3580 - Add Google Sheet support for media responses
 - huan
   - carry-over
     - finish up EMP-3594 .4
-  - engagment exp
+  - engagment exp:
     - EMP-3567 - mobile navbar: .2
     - EMP-3297 - participation history using cards and a sliding panel: .6
-  - QAS
+  - light-weight QAS:
     - EMP-3616 - qual-at-scale tweaks / updates from feedback: .4
-  - Insights (next week)
+  - Insights (next week):
     - EMP-3626 - external table of respondents and responses with clients via a unique link: TBD
     - EMP-3589 - new stand-alone insights application: gen2, new repo, etc: TBD
 
