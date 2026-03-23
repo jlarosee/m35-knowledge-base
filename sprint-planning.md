@@ -52,8 +52,7 @@ Stretch: .2 + 2. = .4
   - blending / RFQ extensions / Levada 
     - EMP-1951 - “pause sample” notification emails to be a roll-up: .4
     - EMP-3521 - (Admin) Adding new team members in Supplier context needs to add them to Supplier group: .2
-  - levada ui refresh
-    - cut some tickets: .4-.6
+    - EMP-3623 - Claude to do a design pass on Levada's Projects, RFQs, and Project Details pages: .4
 
 .6 + .2 + .4 + .2 + .4 = 1.8
 
