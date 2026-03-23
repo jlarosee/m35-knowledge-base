@@ -44,8 +44,8 @@ Stretch: .2 + 2. = .4
     - EMP-1951 - “pause sample” notification emails to be a roll-up: .4
     - EMP-3521 - (Admin) Adding new team members in Supplier context needs to add them to Supplier group: .2
   - levada ui refresh
-    - claude pass
+    - cut some tickets: .4-.6
 
-.6 + .2 + .4 + .2 = 1.4
+.6 + .2 + .4 + .2 + .4 = 1.8
 
    
