@@ -2,8 +2,8 @@
 
 GOALS for final sprint
 - 
-- Finish engagement experience theme
-- Finalize QUAL-AT-SCALE 
+- wrap up engagement experience theme
+- wrap up light-weight qual-at-scale 
 - RFQ notifications feedback + Levada improvements 
 
 - 💡blending thoughts
