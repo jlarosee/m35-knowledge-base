@@ -10,8 +10,10 @@
   - better metrics
 
 
-## QUESTIONS - we didn't talk about these??
-EMP-3580 - Add Google Sheet support for media responses
+## QUESTIONS - 
+- EMP-3624 - video transcriptions included as text in the CSV download
+  - https://www.notion.so/emporia/As-an-Emporia-Admin-I-want-video-transcriptions-included-as-text-in-the-CSV-download-32cc3dd5414780d3b12bfd093f86c0d0
+
 
 - huan
   - carry-over
