@@ -22,8 +22,8 @@ EMP-3580 - Add Google Sheet support for media responses
   - QAS
     - EMP-3616 - qual-at-scale tweaks / updates from feedback: .4
   - Insights (next week)
-    - EMP-3626 - external table of respondents and responses with clients via a unique link
-    - EMP-3589 - new stand-alone insights application: gen2, new repo, etc
+    - EMP-3626 - external table of respondents and responses with clients via a unique link: TBD
+    - EMP-3589 - new stand-alone insights application: gen2, new repo, etc: TBD
 
 
   - EMP-3200 - improve the router UI/UX: .4
