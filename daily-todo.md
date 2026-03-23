@@ -43,18 +43,13 @@ https://www.notion.so/emporia/Hydration-service-is-creating-incomplete-contact-r
 
 # mar 20
 - chatted with pierre about bumping our total platform send
-  - 5% daily bump
-  - chatted with claude to get to a better schedule over the next 10 days
+  - working with brandon to slowly raise our daily sourcing limit to 200k/day
 - blending supplier experience PR'd
 - DE router gmass6 send cap bump - 10%
   - not seeing us hit the limit yet; will wait to see if we get there
 - resume review w/ paula and ando
 - sync w/ ando on Mission's request for our AWS resource surface area overview
 - planning sync w/ chris 
-
-- sync w/ chris on RFQ notification
-  - where we're at w/ testing
-
 
 
 # mar 19
