@@ -26,8 +26,8 @@ GOALS for final sprint
   - carry-over
     - EMP-3430 - audio response question type: .4
   - engagment exp
-    - EMP-3565 - better SMS/push sub modal experience
-    - EMP-2996 (sub EMP-3565) - fix "subscribe to push" notification for polis users
+    - EMP-3565 - better SMS/push sub modal experience: .4
+    - EMP-2996 (sub EMP-3565) - fix "subscribe to push" notification for polis users: .2
   - 2372 - survey bundle size
   - EXT - 3607 (lijin's ticket)
   - EXT - 3608 (lijin's ticket)
