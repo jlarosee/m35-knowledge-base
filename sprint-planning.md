@@ -26,7 +26,7 @@ EMP-3580 - Add Google Sheet support for media responses
     - EMP-3589 - new stand-alone insights application: gen2, new repo, etc: TBD
 
 
-  - EMP-3200 - improve the router UI/UX: .4
+  - EMP-3200 (PUNTED) - improve the router UI/UX: .4 =
 
 .4 + .2 + .6 + .4 + .4 = 2
 
