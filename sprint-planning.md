@@ -33,6 +33,9 @@ GOALS for final sprint
   - EMP-3607 (lijin's ticket) - "Actual Quantity" for each segment in the cost estimates tab: .2 (?)
   - EMP-3608 (lijin's ticket) - ensure segment line item quantities to sum to the project-level n size: .2 (?)
 
+.6 + .4 + .4 + .2 + .4 = 2
+Stretch: .2 + 2. = .4
+
 - 
 - josh (have about a 1 of capacity)
   - my carry over work (.4)
